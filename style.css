@@ -115,14 +115,14 @@ img {
 .our-services-text {
   font-size: 1.8rem;
   font-family: "Agbalumo";
-  margin: 0;
+  margin-bottom: .7rem;
   color: #ff5b22;
 }
 
 .our-services-name {
   font-size: 1.2rem;
   font-family: "Agbalumo";
-  margin: 0;
+   margin-bottom: .7rem;
   color: #ff5b22;
 }
 
