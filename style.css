@@ -182,6 +182,23 @@ img {
   color: #ff5b22;
 }
 
+.button {
+    margin-top: 0.6rem;
+    display: inline-block;
+}
+
+.button input[type="button"] {
+    color: #fff;
+    font-size: 1.8rem;
+    background: #e6521f;
+    outline: none;
+    border: none;
+    border-radius: 0.6rem;
+    padding: 0.5rem 1.6rem;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
 /* FOOTER SECTION  */
 
 footer {
